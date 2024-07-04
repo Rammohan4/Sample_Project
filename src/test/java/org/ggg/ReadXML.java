@@ -30,6 +30,10 @@ public static void main(String[] args) throws JAXBException {
 		
 		System.out.println(s.getId());
 		System.out.println(s.getName());
+		System.out.println("naresh");
+		System.out.println("naresh");
+		System.out.println("naresh");
+		System.out.println("Ram");
 	}
 	
 	
